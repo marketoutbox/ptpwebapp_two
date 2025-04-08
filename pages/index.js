@@ -3,7 +3,7 @@ export default function Home() {
     <div style={{ padding: "20px" }}>
       <h1>Stock App</h1>
       <p>
-        Welcome! Go to the <a href="/stocks">Stock Page</a> to feggtch stock data.
+        Welcome! Go to the <a href="/stocks">Stock Page</a> ghto feggtch stock data.
       </p>
     </div>
   )
